@@ -1,2 +1,0 @@
-# loanApp
-Mortage Calculator
