@@ -1,0 +1,10 @@
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 150px;
+    padding: 10px;
+}
+p {
+    color: red;
+}
